@@ -1,2 +1,2 @@
 # NodejsBlog
-A Nodejs RESTFul Blog App
+A restful blog made with Nodejs and Mongodb.  
